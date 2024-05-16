@@ -1,0 +1,466 @@
+,Residue,Residue_class ,Residue_class_digit,# WT-like variant,# SBI variant,# Total-loss variant
+0,M1,,,0,0,0
+1,L2,WT-like,0.0,19,0,0
+2,D3,,,0,0,0
+3,D4,,,0,0,0
+4,R5,,,0,0,0
+5,A6,,,0,0,0
+6,R7,,,0,0,0
+7,M8,,,0,0,0
+8,E9,,,0,0,0
+9,A10,,,0,0,0
+10,A11,,,0,0,0
+11,K12,,,0,0,0
+12,K13,,,0,0,0
+13,E14,,,0,0,0
+14,K15,,,0,0,0
+15,V16,WT-like,0.0,10,0,9
+16,E17,WT-like,0.0,18,0,1
+17,Q18,WT-like,0.0,18,1,0
+18,I19,WT-like,0.0,17,0,2
+19,L20,Total-loss,2.0,0,6,13
+20,A21,WT-like,0.0,18,1,0
+21,E22,WT-like,0.0,18,1,0
+22,F23,Total-loss,2.0,6,0,13
+23,Q24,WT-like,0.0,18,1,0
+24,L25,Total-loss,2.0,4,2,13
+25,Q26,WT-like,0.0,19,0,0
+26,E27,WT-like,0.0,18,1,0
+27,E28,WT-like,0.0,19,0,0
+28,D29,WT-like,0.0,18,0,1
+29,L30,Total-loss,2.0,6,2,11
+30,K31,WT-like,0.0,18,0,1
+31,K32,WT-like,0.0,18,0,1
+32,V33,Total-loss,2.0,6,0,13
+33,M34,WT-like,0.0,10,8,1
+34,R35,WT-like,0.0,18,0,1
+35,R36,WT-like,0.0,18,0,1
+36,M37,Not assgined,5.0,4,8,7
+37,Q38,WT-like,0.0,17,1,1
+38,K39,WT-like,0.0,18,1,0
+39,E40,Not assgined,5.0,9,9,1
+40,M41,Total-loss,2.0,5,2,12
+41,D42,WT-like,0.0,18,0,1
+42,R43,WT-like,0.0,17,1,1
+43,G44,Total-loss,2.0,0,1,18
+44,L45,Total-loss,2.0,1,2,16
+45,R46,WT-like,0.0,18,0,1
+46,L47,WT-like,0.0,18,1,0
+47,E48,WT-like,0.0,19,0,0
+48,T49,WT-like,0.0,12,7,0
+49,H50,WT-like,0.0,12,7,0
+50,E51,WT-like,0.0,19,0,0
+51,E52,WT-like,0.0,19,0,0
+52,A53,Total-loss,2.0,5,0,14
+53,S54,Total-loss,2.0,6,3,10
+54,V55,Total-loss,2.0,3,2,14
+55,K56,Functional site,1.0,2,15,2
+56,M57,Total-loss,2.0,0,7,12
+57,L58,Not assgined,5.0,7,6,6
+58,P59,Functional site,1.0,4,14,1
+59,T60,Functional site,1.0,2,13,4
+60,Y61,Total-loss,2.0,2,4,13
+61,V62,Total-loss,2.0,1,6,12
+62,R63,WT-like,0.0,19,0,0
+63,S64,WT-like,0.0,16,3,0
+64,T65,WT-like,0.0,18,1,0
+65,P66,Functional site,1.0,0,19,0
+66,E67,WT-like,0.0,19,0,0
+67,G68,Functional site,1.0,0,18,1
+68,S69,WT-like,0.0,18,1,0
+69,E70,Functional site,1.0,0,19,0
+70,V71,WT-like,0.0,18,1,0
+71,G72,Total-loss,2.0,0,5,14
+72,D73,WT-like,0.0,17,2,0
+73,F74,Total-loss,2.0,1,5,13
+74,L75,Total-loss,2.0,1,4,14
+75,S76,Functional site,1.0,2,12,5
+76,L77,Functional site,1.0,0,13,6
+77,D78,Functional site,1.0,0,18,1
+78,L79,Total-loss,2.0,2,6,11
+79,G80,Functional site,1.0,0,18,1
+80,G81,Functional site,1.0,0,19,0
+81,T82,WT-like,0.0,14,5,0
+82,N83,Functional site,1.0,7,12,0
+83,F84,Not assgined,5.0,6,7,6
+84,R85,Functional site,1.0,1,15,3
+85,V86,Total-loss,2.0,1,5,13
+86,M87,Total-loss,2.0,2,5,12
+87,L88,WT-like,0.0,10,2,7
+88,V89,Total-loss,2.0,4,2,13
+89,K90,WT-like,0.0,18,1,0
+90,V91,Total-loss,2.0,3,1,15
+91,G92,WT-like,0.0,15,3,1
+92,E93,WT-like,0.0,19,0,0
+93,G94,WT-like,0.0,19,0,0
+94,E95,WT-like,0.0,19,0,0
+95,E96,WT-like,0.0,19,0,0
+96,G97,WT-like,0.0,18,0,1
+97,Q98,WT-like,0.0,19,0,0
+98,W99,Not assgined,5.0,5,6,8
+99,S100,WT-like,0.0,16,3,0
+100,V101,Total-loss,2.0,6,0,13
+101,K102,WT-like,0.0,18,1,0
+102,T103,WT-like,0.0,18,1,0
+103,K104,WT-like,0.0,18,1,0
+104,H105,Functional site,1.0,9,10,0
+105,Q106,WT-like,0.0,18,1,0
+106,M107,WT-like,0.0,18,1,0
+107,Y108,WT-like,0.0,12,0,7
+108,S109,WT-like,0.0,19,0,0
+109,I110,Total-loss,2.0,9,0,10
+110,P111,Functional site,1.0,7,12,0
+111,E112,WT-like,0.0,19,0,0
+112,D113,WT-like,0.0,18,1,0
+113,A114,WT-like,0.0,18,1,0
+114,M115,Functional site,1.0,5,14,0
+115,T116,WT-like,0.0,18,0,1
+116,G117,Total-loss,2.0,3,5,11
+117,T118,WT-like,0.0,17,2,0
+118,A119,Not assgined,5.0,8,3,8
+119,E120,WT-like,0.0,18,1,0
+120,M121,WT-like,0.0,18,0,1
+121,L122,Total-loss,2.0,2,2,15
+122,F123,Total-loss,2.0,2,2,15
+123,D124,Functional site,1.0,4,14,1
+124,Y125,Total-loss,2.0,3,5,11
+125,I126,Total-loss,2.0,3,1,15
+126,S127,Functional site,1.0,1,13,5
+127,E128,WT-like,0.0,18,0,1
+128,C129,Total-loss,2.0,4,5,10
+129,I130,Total-loss,2.0,3,0,16
+130,S131,WT-like,0.0,17,1,1
+131,D132,WT-like,0.0,18,0,1
+132,F133,Total-loss,2.0,1,3,15
+133,L134,Total-loss,2.0,6,3,10
+134,D135,WT-like,0.0,18,1,0
+135,K136,WT-like,0.0,18,1,0
+136,H137,WT-like,0.0,19,0,0
+137,Q138,WT-like,0.0,18,1,0
+138,M139,WT-like,0.0,18,1,0
+139,K140,WT-like,0.0,18,1,0
+140,H141,WT-like,0.0,19,0,0
+141,K142,WT-like,0.0,19,0,0
+142,K143,WT-like,0.0,19,0,0
+143,L144,Total-loss,2.0,4,2,13
+144,P145,Functional site,1.0,2,17,0
+145,L146,Total-loss,2.0,1,3,15
+146,G147,Total-loss,2.0,0,2,17
+147,F148,Total-loss,2.0,1,4,14
+148,T149,Functional site,1.0,0,16,3
+149,F150,Total-loss,2.0,0,6,13
+150,S151,Functional site,1.0,0,18,1
+151,F152,Functional site,1.0,1,18,0
+152,P153,Functional site,1.0,0,19,0
+153,V154,Total-loss,2.0,7,0,12
+154,R155,WT-like,0.0,18,0,1
+155,H156,Functional site,1.0,0,19,0
+156,E157,WT-like,0.0,18,1,0
+157,D158,WT-like,0.0,17,1,1
+158,I159,Functional site,1.0,1,15,3
+159,D160,WT-like,0.0,12,7,0
+160,K161,WT-like,0.0,14,4,1
+161,G162,Total-loss,2.0,1,0,18
+162,I163,WT-like,0.0,15,1,3
+163,L164,Total-loss,2.0,0,3,16
+164,L165,WT-like,0.0,15,1,3
+165,N166,WT-like,0.0,18,0,1
+166,W167,Total-loss,2.0,0,6,13
+167,T168,Functional site,1.0,2,16,1
+168,K169,Functional site,1.0,0,19,0
+169,G170,Functional site,1.0,4,15,0
+170,F171,Total-loss,2.0,2,7,10
+171,K172,WT-like,0.0,18,0,1
+172,A173,Total-loss,2.0,7,0,12
+173,S174,WT-like,0.0,19,0,0
+174,G175,WT-like,0.0,12,7,0
+175,A176,Not assgined,5.0,7,4,8
+176,E177,WT-like,0.0,17,2,0
+177,G178,Functional site,1.0,0,19,0
+178,N179,WT-like,0.0,18,1,0
+179,N180,Functional site,1.0,0,19,0
+180,V181,Total-loss,2.0,1,4,14
+181,V182,Total-loss,2.0,5,1,13
+182,G183,WT-like,0.0,18,0,1
+183,L184,Not assgined,5.0,7,6,6
+184,L185,Total-loss,2.0,1,3,15
+185,R186,WT-like,0.0,18,0,1
+186,D187,WT-like,0.0,18,0,1
+187,A188,Total-loss,2.0,3,2,14
+188,I189,Total-loss,2.0,5,3,11
+189,K190,WT-like,0.0,18,0,1
+190,R191,Functional site,1.0,7,12,0
+191,R192,WT-like,0.0,18,1,0
+192,G193,WT-like,0.0,19,0,0
+193,D194,WT-like,0.0,18,1,0
+194,F195,WT-like,0.0,10,0,9
+195,E196,WT-like,0.0,19,0,0
+196,M197,Not assgined,5.0,5,6,8
+197,D198,WT-like,0.0,18,0,1
+198,V199,Functional site,1.0,3,14,2
+199,V200,Not assgined,5.0,9,9,1
+200,A201,Functional site,1.0,0,10,9
+201,M202,Total-loss,2.0,3,6,10
+202,V203,Not assgined,5.0,2,9,8
+203,N204,Functional site,1.0,0,18,1
+204,D205,Functional site,1.0,0,19,0
+205,T206,Functional site,1.0,0,15,4
+206,V207,Total-loss,2.0,1,5,13
+207,A208,Total-loss,2.0,2,3,14
+208,T209,Functional site,1.0,2,15,2
+209,M210,Total-loss,2.0,0,7,12
+210,I211,Total-loss,2.0,3,1,15
+211,S212,Not assgined,5.0,2,8,9
+212,C213,Total-loss,2.0,3,6,10
+213,Y214,WT-like,0.0,11,1,7
+214,Y215,Functional site,1.0,2,10,7
+215,E216,WT-like,0.0,18,0,1
+216,D217,Functional site,1.0,9,10,0
+217,H218,WT-like,0.0,19,0,0
+218,Q219,WT-like,0.0,19,0,0
+219,C220,Total-loss,2.0,4,5,10
+220,E221,WT-like,0.0,15,3,1
+221,V222,Total-loss,2.0,3,1,15
+222,G223,Total-loss,2.0,1,0,18
+223,M224,Not assgined,5.0,3,9,7
+224,I225,Total-loss,2.0,0,7,12
+225,V226,Functional site,1.0,4,13,2
+226,G227,Functional site,1.0,0,19,0
+227,T228,Functional site,1.0,2,17,0
+228,G229,Functional site,1.0,0,16,3
+229,C230,Functional site,1.0,3,10,6
+230,N231,Functional site,1.0,0,18,1
+231,A232,Functional site,1.0,2,14,3
+232,C233,Functional site,1.0,0,10,9
+233,Y234,Total-loss,2.0,0,7,12
+234,M235,Functional site,1.0,5,12,2
+235,E236,Functional site,1.0,0,19,0
+236,E237,WT-like,0.0,16,3,0
+237,M238,Not assgined,5.0,9,7,3
+238,Q239,WT-like,0.0,18,1,0
+239,N240,WT-like,0.0,14,4,1
+240,V241,Not assgined,5.0,6,6,7
+241,E242,WT-like,0.0,17,2,0
+242,L243,WT-like,0.0,18,0,1
+243,V244,WT-like,0.0,14,5,0
+244,E245,WT-like,0.0,19,0,0
+245,G246,WT-like,0.0,17,0,2
+246,D247,WT-like,0.0,19,0,0
+247,E248,WT-like,0.0,19,0,0
+248,G249,WT-like,0.0,13,4,2
+249,R250,WT-like,0.0,15,3,1
+250,M251,Not assgined,5.0,2,8,9
+251,C252,Functional site,1.0,3,10,6
+252,V253,Total-loss,2.0,1,6,12
+253,N254,Total-loss,2.0,0,3,16
+254,T255,Functional site,1.0,4,13,2
+255,E256,Functional site,1.0,0,18,1
+256,W257,Functional site,1.0,0,10,9
+257,G258,Total-loss,2.0,0,9,10
+258,A259,Functional site,1.0,4,14,1
+259,F260,Total-loss,2.0,2,2,15
+260,G261,Total-loss,2.0,2,1,16
+261,D262,Functional site,1.0,2,16,1
+262,S263,WT-like,0.0,18,1,0
+263,G264,Functional site,1.0,4,15,0
+264,E265,WT-like,0.0,18,0,1
+265,L266,Total-loss,2.0,3,6,10
+266,D267,WT-like,0.0,19,0,0
+267,E268,WT-like,0.0,18,1,0
+268,F269,WT-like,0.0,14,4,1
+269,L270,WT-like,0.0,14,0,5
+270,L271,Functional site,1.0,6,13,0
+271,E272,WT-like,0.0,19,0,0
+272,Y273,Not assgined,5.0,5,7,7
+273,D274,Total-loss,2.0,0,9,10
+274,R275,WT-like,0.0,18,0,1
+275,L276,WT-like,0.0,18,0,1
+276,V277,Total-loss,2.0,4,5,10
+277,D278,Functional site,1.0,0,19,0
+278,E279,WT-like,0.0,19,0,0
+279,S280,WT-like,0.0,19,0,0
+280,S281,Functional site,1.0,1,18,0
+281,A282,WT-like,0.0,19,0,0
+282,N283,WT-like,0.0,11,8,0
+283,P284,WT-like,0.0,16,3,0
+284,G285,Functional site,1.0,3,16,0
+285,Q286,WT-like,0.0,18,1,0
+286,Q287,Functional site,1.0,1,18,0
+287,L288,WT-like,0.0,10,3,6
+288,Y289,Total-loss,2.0,2,5,12
+289,E290,Functional site,1.0,0,18,1
+290,K291,Functional site,1.0,0,18,1
+291,L292,Total-loss,2.0,3,5,11
+292,I293,Total-loss,2.0,3,3,13
+293,G294,Total-loss,2.0,4,0,15
+294,G295,Functional site,1.0,0,12,7
+295,K296,WT-like,0.0,14,4,1
+296,Y297,Total-loss,2.0,0,9,10
+297,M298,Functional site,1.0,0,11,8
+298,G299,Functional site,1.0,0,11,8
+299,E300,Functional site,1.0,0,18,1
+300,L301,Total-loss,2.0,2,4,13
+301,V302,Total-loss,2.0,4,2,13
+302,R303,Functional site,1.0,0,12,7
+303,L304,WT-like,0.0,12,2,5
+304,V305,Total-loss,2.0,6,0,13
+305,L306,Total-loss,2.0,3,1,15
+306,L307,WT-like,0.0,16,0,3
+307,R308,WT-like,0.0,18,0,1
+308,L309,Total-loss,2.0,5,0,14
+309,V310,Total-loss,2.0,6,0,13
+310,D311,WT-like,0.0,18,1,0
+311,E312,WT-like,0.0,19,0,0
+312,N313,WT-like,0.0,17,0,2
+313,L314,WT-like,0.0,13,0,6
+314,L315,Total-loss,2.0,3,0,16
+315,F316,Total-loss,2.0,1,2,16
+316,H317,WT-like,0.0,18,0,1
+317,G318,Functional site,1.0,1,18,0
+318,E319,WT-like,0.0,19,0,0
+319,A320,WT-like,0.0,14,2,3
+320,S321,WT-like,0.0,15,2,2
+321,E322,WT-like,0.0,19,0,0
+322,Q323,WT-like,0.0,18,1,0
+323,L324,Total-loss,2.0,1,2,16
+324,R325,WT-like,0.0,18,0,1
+325,T326,WT-like,0.0,15,4,0
+326,R327,WT-like,0.0,19,0,0
+327,G328,WT-like,0.0,17,2,0
+328,A329,WT-like,0.0,18,0,1
+329,F330,Total-loss,2.0,5,1,13
+330,E331,WT-like,0.0,19,0,0
+331,T332,Functional site,1.0,3,16,0
+332,R333,WT-like,0.0,19,0,0
+333,F334,Total-loss,2.0,7,0,12
+334,V335,Total-loss,2.0,3,3,13
+335,S336,Functional site,1.0,3,15,1
+336,Q337,WT-like,0.0,18,0,1
+337,V338,Total-loss,2.0,7,0,12
+338,E339,Functional site,1.0,1,17,1
+339,S340,WT-like,0.0,18,0,1
+340,D341,Total-loss,2.0,3,4,12
+341,T342,WT-like,0.0,19,0,0
+342,G343,WT-like,0.0,19,0,0
+343,D344,WT-like,0.0,19,0,0
+344,R345,WT-like,0.0,10,5,4
+345,K346,WT-like,0.0,18,1,0
+346,Q347,WT-like,0.0,18,0,1
+347,I348,Total-loss,2.0,8,0,11
+348,Y349,WT-like,0.0,18,0,1
+349,N350,WT-like,0.0,18,0,1
+350,I351,Total-loss,2.0,5,4,10
+351,L352,Total-loss,2.0,3,1,15
+352,S353,WT-like,0.0,18,0,1
+353,T354,WT-like,0.0,18,1,0
+354,L355,Not assgined,5.0,6,5,8
+355,G356,WT-like,0.0,18,0,1
+356,L357,Total-loss,2.0,8,1,10
+357,R358,WT-like,0.0,19,0,0
+358,P359,WT-like,0.0,17,2,0
+359,S360,WT-like,0.0,17,2,0
+360,T361,WT-like,0.0,19,0,0
+361,T362,WT-like,0.0,19,0,0
+362,D363,Functional site,1.0,0,17,2
+363,C364,WT-like,0.0,11,4,4
+364,D365,WT-like,0.0,18,0,1
+365,I366,WT-like,0.0,13,0,6
+366,V367,Total-loss,2.0,6,0,13
+367,R368,Not assgined,5.0,5,9,5
+368,R369,WT-like,0.0,18,0,1
+369,A370,Total-loss,2.0,7,0,12
+370,C371,Total-loss,2.0,0,9,10
+371,E372,WT-like,0.0,18,0,1
+372,S373,WT-like,0.0,15,2,2
+373,V374,Functional site,1.0,1,16,2
+374,S375,Functional site,1.0,4,15,0
+375,T376,WT-like,0.0,18,1,0
+376,R377,Functional site,1.0,0,12,7
+377,A378,Total-loss,2.0,3,2,14
+378,A379,Total-loss,2.0,3,0,16
+379,H380,WT-like,0.0,13,5,1
+380,M381,Functional site,1.0,1,13,5
+381,C382,Not assgined,5.0,4,6,9
+382,S383,Total-loss,2.0,5,0,14
+383,A384,Total-loss,2.0,3,1,15
+384,G385,Total-loss,2.0,3,0,16
+385,L386,Total-loss,2.0,4,0,15
+386,A387,Total-loss,2.0,5,0,14
+387,G388,Total-loss,2.0,4,1,14
+388,V389,Total-loss,2.0,4,2,13
+389,I390,Total-loss,2.0,7,0,12
+390,N391,WT-like,0.0,18,0,1
+391,R392,Functional site,1.0,7,10,2
+392,M393,Not assgined,5.0,6,7,6
+393,R394,WT-like,0.0,18,0,1
+394,E395,WT-like,0.0,18,1,0
+395,S396,WT-like,0.0,18,1,0
+396,R397,WT-like,0.0,17,0,2
+397,S398,WT-like,0.0,18,1,0
+398,E399,WT-like,0.0,18,1,0
+399,D400,WT-like,0.0,19,0,0
+400,V401,WT-like,0.0,19,0,0
+401,M402,Functional site,1.0,3,10,6
+402,R403,WT-like,0.0,19,0,0
+403,I404,Total-loss,2.0,7,1,11
+404,T405,Functional site,1.0,4,14,1
+405,V406,Total-loss,2.0,2,0,17
+406,G407,Total-loss,2.0,2,7,10
+407,V408,Not assgined,5.0,2,8,9
+408,D409,Functional site,1.0,0,18,1
+409,G410,Functional site,1.0,0,10,9
+410,S411,Functional site,1.0,8,11,0
+411,V412,Total-loss,2.0,1,6,12
+412,Y413,Total-loss,2.0,2,4,13
+413,K414,WT-like,0.0,15,3,1
+414,L415,WT-like,0.0,18,1,0
+415,H416,Functional site,1.0,1,18,0
+416,P417,Functional site,1.0,1,18,0
+417,S418,WT-like,0.0,18,0,1
+418,F419,Total-loss,2.0,6,0,13
+419,K420,WT-like,0.0,18,1,0
+420,E421,WT-like,0.0,19,0,0
+421,R422,WT-like,0.0,18,0,1
+422,F423,Total-loss,2.0,6,0,13
+423,H424,WT-like,0.0,15,2,2
+424,A425,WT-like,0.0,18,1,0
+425,S426,WT-like,0.0,10,7,2
+426,V427,Total-loss,2.0,6,1,12
+427,R428,WT-like,0.0,18,0,1
+428,R429,WT-like,0.0,18,0,1
+429,L430,Total-loss,2.0,0,4,15
+430,T431,WT-like,0.0,15,0,4
+431,P432,WT-like,0.0,16,3,0
+432,S433,WT-like,0.0,19,0,0
+433,C434,Not assgined,5.0,7,8,4
+434,E435,WT-like,0.0,18,0,1
+435,I436,Total-loss,2.0,9,0,10
+436,T437,WT-like,0.0,19,0,0
+437,F438,Total-loss,2.0,6,0,13
+438,I439,WT-like,0.0,12,0,7
+439,E440,WT-like,0.0,18,1,0
+440,S441,Functional site,1.0,3,16,0
+441,E442,WT-like,0.0,19,0,0
+442,E443,Functional site,1.0,8,10,1
+443,G444,Total-loss,2.0,0,9,10
+444,S445,Functional site,1.0,1,17,1
+445,G446,Functional site,1.0,0,19,0
+446,R447,WT-like,0.0,10,8,1
+447,G448,Total-loss,2.0,0,1,18
+448,A449,Total-loss,2.0,1,7,11
+449,A450,Total-loss,2.0,2,3,14
+450,L451,Total-loss,2.0,3,3,13
+451,V452,Total-loss,2.0,2,7,10
+452,S453,Functional site,1.0,2,12,5
+453,A454,Total-loss,2.0,2,6,11
+454,V455,Not assgined,5.0,7,5,7
+455,A456,Functional site,1.0,4,15,0
+456,C457,WT-like,0.0,18,1,0
+457,K458,Functional site,1.0,9,10,0
+458,K459,WT-like,0.0,18,1,0
+459,A460,WT-like,0.0,19,0,0
+460,C461,WT-like,0.0,19,0,0
+461,M462,,,0,0,0
+462,L463,,,0,0,0
+463,G464,,,0,0,0
+464,Q465,,,0,0,0
