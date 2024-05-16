@@ -21,7 +21,7 @@ Please add details here including zenodo
     
 ## FunC-ESMs prediction notebook
 ### Usage
-To run the prediction Notebook, we suggest to open it in [Google Colaboratory](https://colab.research.google.com/), it can be open clicking [here](https://colab.research.google.com/github/KULL-Centre/_2024_cagiada_stability/blob/main/FunC_ESMs.ipynb).
+To run the prediction Notebook, we suggest to open it in [Google Colaboratory](https://colab.research.google.com/), it can be open clicking [here](https://colab.research.google.com/github/KULL-Centre/_2024_cagiada-jonsson-func/blob/main/FunC_ESMs.ipynb).
 To run the Notebook is necessary to follow different steps:
 1 Run the cells with the PRELIMINARY OPERATIONS prefix, this will install all the dependencies and load the functions required to run the predictor.
 2 Upload all the structure and additional information in the `DATA UPLOADING` cell. Specifically you are required to:
