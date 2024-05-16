@@ -71,7 +71,7 @@ For any bugs please report the issue on the project [Github](https://github.com/
 
 If you use our model please cite:
 
-Cagiada, Matteo, Nicolas Jonsson, and Kresten Lindorff-Larsen. 2023. “Decoding molecular mechanisms for loss of function variants in the human proteome” (add details upon publication).
+Mattoe Cagiada, Nicolas Jonsson, and Kresten Lindorff-Larsen. 2023. “Decoding molecular mechanisms for loss of function variants in the human proteome” (add details upon publication).
 ```
 
 @ARTICLE{Cagiada2024-jo,
