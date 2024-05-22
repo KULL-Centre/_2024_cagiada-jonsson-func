@@ -17,7 +17,7 @@ This repository contains Python code, [Jupyter](http://jupyter.org) Notebooks an
 
 ## FunC-ESMS human proteome predictions
 
-Please add details here including zenodo ([colab link](https://colab.research.google.com/github/KULL-Centre/_2024_cagiada-jonsson-func/blob/main/Download_predictions.ipynb))
+The input data for the model and the predictions used in this study are available at the Electronic Research Data Archive at University of Copenhagen (KU/UCPH) (ERDA) and available via this [link](https://sid.erda.dk/cgi-sid/ls.py?share_id=DUWFpyjZp0). Single prediction for each protein in the human proteome, alongside with a quick overviewof the results can also be accessed via using this [colaboratory notebook](https://colab.research.google.com/github/KULL-Centre/_2024_cagiada-jonsson-func/blob/main/Download_predictions.ipynb)
     
 ## FunC-ESMs prediction notebook
 ### Usage
