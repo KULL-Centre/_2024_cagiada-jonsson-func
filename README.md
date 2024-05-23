@@ -17,7 +17,32 @@ This repository contains Python code, [Jupyter](http://jupyter.org) Notebooks an
 
 ## FunC-ESMS human proteome predictions
 
-The input data for the model and the predictions used in this study are available at the Electronic Research Data Archive at University of Copenhagen (KU/UCPH) (ERDA) and available via this [link](https://sid.erda.dk/cgi-sid/ls.py?share_id=DUWFpyjZp0). Single prediction for each protein in the human proteome, alongside with a quick overviewof the results can also be accessed via using this [colaboratory notebook](https://colab.research.google.com/github/KULL-Centre/_2024_cagiada-jonsson-func/blob/main/Download_predictions.ipynb)
+### Unified Dataframe
+The input data for the model and the predictions used in this study are available at the Electronic Research Data Archive at University of Copenhagen (KU/UCPH) (ERDA) and available via this [link](https://sid.erda.dk/cgi-sid/ls.py?share_id=DUWFpyjZp0) in a single H5PY file. 
+
+To process the H5PY unified proteome prediction dataframe, due to the large size of the file, we suggest using the Python library [Vaex](https://vaex.io/), which works in a similar way to the Pandas library.
+
+Basic commands for read and manipulate the H5PY dataframe with Vaex:
+- to open your file you can use the command: 
+```
+df_unified=vaex.open(your_h5py_df_location)
+```
+- to extract column names use the command:
+```
+df_unified.get_column_names()
+```
+- to extract certain columns or to filter in a similar way to the Pandas, using the commands
+
+```
+column_data=df_unified['column_name']
+filter_df=df_unified[df_unified['column_name']>=filter_value]
+```
+For all other advance command combinations and how to install Vaex, please refer to the software documentation.
+
+### Single protein prediction analysis and download
+
+Single prediction for each protein in the human proteome, alongside with a quick overview of the results can also be accessed via using this [colaboratory notebook](https://colab.research.google.com/github/KULL-Centre/_2024_cagiada-jonsson-func/blob/main/Download_predictions.ipynb)
+
     
 ## FunC-ESMs prediction notebook
 ### Usage
