@@ -2,7 +2,7 @@
 
 # Decoding molecular mechanisms for loss of function variants in the human proteome
 
-This repository contains Python code, [Jupyter](http://jupyter.org) Notebooks and data to generate new predictions and reproduce the results of the scientific paper `PDecoding molecular mechanisms for loss of function variants in the human proteome` by M. Cagiada, N. Jonsson and K. Lindorff-Larsen, 2024, biorxiv (ADD DOI on publication).
+This repository contains Python code, [Jupyter](http://jupyter.org) Notebooks and data to generate new predictions and reproduce the results of the scientific paper `Decoding molecular mechanisms for loss of function variants in the human proteome` by M. Cagiada, N. Jonsson and K. Lindorff-Larsen, 2024, biorxiv ([link](https://doi.org/10.1101/2024.05.21.595203)).
 
 ## Layout
 - `FunC-ESMs.ipynb` Jupyter Notebook to generate new predictions with FunC-ESMs, it can be run using the Google Colaboratory system.
@@ -96,15 +96,16 @@ For any bugs please report the issue on the project [Github](https://github.com/
 
 If you use our model please cite:
 
-Matteo Cagiada, Nicolas Jonsson, and Kresten Lindorff-Larsen. 2023. “Decoding molecular mechanisms for loss of function variants in the human proteome” (add details upon publication).
-```
+Cagiada, M., Jonsson, N., & Lindorff-Larsen, K. (2024). Decoding molecular mechanisms for loss of function variants in the human proteome. In bioRxiv (p. 2024.05.21.595203). https://doi.org/10.1101/2024.05.21.595203
 
-@ARTICLE{Cagiada2024-jo,
-  title     = "Decoding molecular mechanisms for loss of function variants in the human proteome",
-  author    = "Cagiada, Matteo and Jonsson, Nicolas and Lindorff-Larsen, Kresten",
-  journal   = "",
-  publisher = "",
-  volume    =  ,
-  year      =  2024,
-  language  = "en"
-}
+```
+@ARTICLE{Cagiada2024-wp,
+  title    = "Decoding molecular mechanisms for loss of function variants in
+              the human proteome",
+  author   = "Cagiada, Matteo and Jonsson, Nicolas and Lindorff-Larsen, Kresten",
+  journal  = "bioRxiv",
+  pages    = "2024.05.21.595203",
+  month    =  may,
+  year     =  2024,
+  language = "en"
+```
